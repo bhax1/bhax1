@@ -15,8 +15,8 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on **full-stack and mobile development projects**
-- 🌱 Actively learning **advanced React & Flutter techniques**
+- 🔭 Currently working on my **thesis**
+- 🌱 Actively learning **machine learning**
 - 🤝 Open to collaborating on **open-source projects**
 - 💬 Ask me about **web, mobile, or database development**
 - 📫 Reach me at **b.ongoy.534716@umindanao.edu.ph**
